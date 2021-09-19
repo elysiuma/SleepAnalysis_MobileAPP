@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">智能睡眠监测</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">智能睡眠监测应用</string>
+    <string name="nav_header_subtitle">by:Eliysiumar</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_status">状态</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="status_button_connect">连接手表</string>
+</resources>
